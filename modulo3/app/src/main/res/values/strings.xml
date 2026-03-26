@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Medellín Guide</string>
+    <string name="home_subtitle">Descubre lo mejor de la Ciudad de la Eterna Primavera</string>
+
+    <!-- Categorías -->
+    <string name="category_restaurants">Restaurantes</string>
+    <string name="category_parks">Parques y Naturaleza</string>
+    <string name="category_cafes">Cafés y Vida Nocturna</string>
+
+    <!-- Restaurantes -->
+    <string name="rest_carmen_name">El Carmen</string>
+    <string name="rest_carmen_desc">Restaurante insignia del barrio El Poblado con cocina colombiana contemporánea. Conocido por sus ceviches y su carta de cócteles artesanales. Ideal para una cena especial con ambiente elegante pero relajado.</string>
+
+    <string name="rest_bobe_name">Bobe Pizza e Cucina</string>
+    <string name="rest_bobe_desc">La pizza napolitana más reconocida de Medellín. Horno de leña importado de Italia, masa fermentada 72 horas y mozzarella fresca. Un clásico del barrio Laureles que no decepciona.</string>
+
+    <string name="rest_elcielo_name">El Cielo</string>
+    <string name="rest_elcielo_desc">Experiencia gastronómica de vanguardia del chef Juan Manuel Barrientos. Un viaje sensorial de 12 tiempos que mezcla ciencia, arte y sabores del pacífico colombiano. Reserva con anticipación.</string>
+
+    <!-- Parques -->
+    <string name="park_arvi_name">Parque Arví</string>
+    <string name="park_arvi_desc">Reserva natural a 2.400 metros de altura sobre el Valle de Aburrá. Accesible en metro + Metrocable. Ideal para senderismo, avistamiento de aves y picnics. Los fines de semana hay mercado campesino.</string>
+
+    <string name="park_norte_name">Parque Norte</string>
+    <string name="park_norte_desc">El parque de diversiones y recreación más tradicional de Medellín. Ubicado junto al Jardín Botánico, tiene atracciones mecánicas, zonas verdes y es perfecto para ir en familia.</string>
+
+    <string name="park_botero_name">Plaza Botero</string>
+    <string name="park_botero_desc">Espacio público en el Centro de Medellín que alberga 23 esculturas monumentales donadas por Fernando Botero. Punto de encuentro cultural, rodeado del Museo de Antioquia y el Palacio de la Cultura.</string>
+
+    <!-- Cafés -->
+    <string name="cafe_pergamino_name">Café Pergamino</string>
+    <string name="cafe_pergamino_desc">El café de especialidad más emblemático de Medellín. Granos de origen colombiano tostados en casa, con métodos de preparación como V60, Chemex y espresso. Ambiente acogedor en el corazón de El Poblado.</string>
+
+    <string name="cafe_urbania_name">Urbania Rooftop Bar</string>
+    <string name="cafe_urbania_desc">Bar en terraza con vista panorámica al skyline de Medellín. Cócteles creativos, buena selección de cervezas artesanales y música en vivo los fines de semana. El spot perfecto para el atardecer.</string>
+
+    <string name="cafe_envejecido_name">El Envejecido</string>
+    <string name="cafe_envejecido_desc">Bar especializado en aguardiente y ron añejo colombiano. Coctelería con destilados locales, empanadas de pipián y ambiente cálido que mezcla lo tradicional antioqueño con lo moderno.</string>
+
+    <!-- Accesibilidad -->
+    <string name="cd_back">Regresar</string>
+    <string name="cd_navigate">Navegar</string>
+</resources>
